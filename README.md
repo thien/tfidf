@@ -1,9 +1,3 @@
----
-title: "Web Technologies Assignment"
-author: cmkv68
-geometry: "left=1.5cm,right=1.5cm,top=1.5cm,bottom=1.5cm"
-output: pdf_document
----
 
 <!--  
 • Report - 35%
